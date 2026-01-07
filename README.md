@@ -1,4 +1,4 @@
-![Visualização do Grafo](./image_2205e0.jpg)
+![Visualização do Grafo](./grafo.png)
 
 Este projeto foi desenvolvido como parte de um desafio prático da DIO. O objetivo principal foi a modelagem e implementação de um sistema de recomendação utilizando conceitos de Banco de Dados de Grafos.
 
