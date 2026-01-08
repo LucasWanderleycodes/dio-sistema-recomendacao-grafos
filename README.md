@@ -1,3 +1,4 @@
+# Grafo de sistema de recomendação de musica
 ![Visualização do Grafo](./grafo.png)
 
 Este projeto foi desenvolvido como parte de um desafio prático da DIO. O objetivo principal foi a modelagem e implementação de um sistema de recomendação utilizando conceitos de Banco de Dados de Grafos.
